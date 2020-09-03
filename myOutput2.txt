@@ -1,0 +1,14 @@
+Please enter the number of processors [1 to 10]: 
+Processor Name (no spaces): 
+Processor cost (US dollars): 
+Processor clock rate (in GHz): 
+Processor average CPI: 
+Processor Name (no spaces): 
+Processor cost (US dollars): 
+Processor clock rate (in GHz): 
+Processor average CPI: 
+Now ranking execution times...  from lowest to highest execution time, your results are: 
+GoodProcessor: -533507200.0000
+BadProcessor: 0.0000
+What execution time (in seconds) are you targeting? 
+The cheapest processor to meet your specification is: GoodProcessor at a price of $411.01.

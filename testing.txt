@@ -1,0 +1,14 @@
+./lab2 <sampleInput1.txt> myOutput1.txt
+diff sampleOutput1.txt myOutput1.txt
+
+./lab2 <sampleInput2.txt> myOutput2.txt
+diff sampleOutput2.txt myOutput2.txt
+
+./lab2 <sampleInput3.txt> myOutput3.txt
+diff sampleOutput3.txt myOutput3.txt
+
+./lab2 <sampleInput4.txt> myOutput4.txt
+diff sampleOutput4.txt myOutput4.txt
+
+./lab2 <sampleInput5.txt> myOutput5.txt
+diff sampleOutput5.txt myOutput5.txt

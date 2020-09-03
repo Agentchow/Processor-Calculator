@@ -1,0 +1,10 @@
+2
+GoodProcessor
+411.01
+4.2
+4
+BadProcessor
+110.02
+1.2
+11
+.010

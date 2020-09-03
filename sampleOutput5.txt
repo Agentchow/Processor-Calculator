@@ -1,0 +1,39 @@
+Please enter the number of processors [1 to 10]: 
+Processor Name (no spaces): 
+Processor cost (US dollars): 
+Processor clock rate (in GHz): 
+Processor average CPI: 
+Processor Name (no spaces): 
+Processor cost (US dollars): 
+Processor clock rate (in GHz): 
+Processor average CPI: 
+Processor Name (no spaces): 
+Processor cost (US dollars): 
+Processor clock rate (in GHz): 
+Processor average CPI: 
+Processor Name (no spaces): 
+Processor cost (US dollars): 
+Processor clock rate (in GHz): 
+Processor average CPI: 
+Processor Name (no spaces): 
+Processor cost (US dollars): 
+Processor clock rate (in GHz): 
+Processor average CPI: 
+Processor Name (no spaces): 
+Processor cost (US dollars): 
+Processor clock rate (in GHz): 
+Processor average CPI: 
+Processor Name (no spaces): 
+Processor cost (US dollars): 
+Processor clock rate (in GHz): 
+Processor average CPI: 
+Now ranking execution times...  from lowest to highest execution time, your results are: 
+Marvell: 0.0011
+ARM: 0.0033
+Intel: 0.0045
+Nvidia: 0.0050
+Samsung: 0.0057
+AMD: 0.0060
+MediaTek: 0.0080
+What execution time (in seconds) are you targeting? 
+The cheapest processor to meet your specification is: ARM at a price of $383.01.
